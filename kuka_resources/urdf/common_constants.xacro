@@ -2,5 +2,6 @@
 <robot xmlns:xacro="http://ros.org/wiki/xacro">
 
   <xacro:property name="DEG2RAD" value="0.017453292519943295" />
+  <xacro:property name="PI" value="3.141592653589793"/>
 
 </robot>
